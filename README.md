@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/pritamchaudhary/" target="_blank"> Pritam Kumar </a> </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pritamchaudhary&label=Profile%20views&color=0e75b6&style=flat" alt="pritam-chaudhary" /> </p>
-<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Web+Developer;MERN+Stack+Enthusiast;Cloud+Computing+Learner;Open+Source+Contributor;Tech+Blogger" /> </h3>
+<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Web+Developer;MERN+Stack+Enthusiast;Cloud+Computing+Learner" /> </h3>
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
